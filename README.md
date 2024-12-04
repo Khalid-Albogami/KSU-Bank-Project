@@ -1,4 +1,4 @@
-# Bank Account Project
+# KSU Bank Project
 
 This is a simple banking system project developed using Java. It was created as part of the **CSC 111 (Introduction to Programming)** course at King Saud University.
 
